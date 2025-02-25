@@ -2,15 +2,10 @@
 
 A tiny APP to sooth pressure
 
-## Getting Started
+// 2025 02 25 ver 1.1.0+25022501
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- 改標題字體
+- 土撥鼠25%機率旋轉
+- 土撥鼠size:100~250
+- 土撥鼠 整張隨機旋轉
+- 土撥鼠 隨機位置

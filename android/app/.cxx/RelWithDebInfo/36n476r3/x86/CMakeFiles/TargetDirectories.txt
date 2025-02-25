@@ -1,0 +1,2 @@
+C:/Users/terry/StudioProjects/screaming_marmot/android/app/.cxx/RelWithDebInfo/36n476r3/x86/CMakeFiles/edit_cache.dir
+C:/Users/terry/StudioProjects/screaming_marmot/android/app/.cxx/RelWithDebInfo/36n476r3/x86/CMakeFiles/rebuild_cache.dir
